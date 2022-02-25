@@ -1,0 +1,2 @@
+;;; Generated package description from nimbus-theme-20210929.2219/nimbus-theme.el  -*- no-byte-compile: t -*-
+(define-package "nimbus-theme" "20210929.2219" "An awesome dark theme" '((emacs "24.1")) :commit "e5d12e26bc98f99b3b1e4b5af452f3079a98e0ff" :authors '(("Marcin Swieczkowski" . "marcin.swieczkowski@gmail.com") ("See README.md for full list of contributors.")) :maintainer '("Marcin Swieczkowski" . "marcin.swieczkowski@gmail.com") :keywords '("faces") :url "https://github.com/m-cat/nimbus-theme")

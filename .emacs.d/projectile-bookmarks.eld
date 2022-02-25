@@ -1,0 +1,1 @@
+("~/EstimaAPI/" "~/" "~/digital-api/" "~/services-digital-prd/" "~/price-test/" "~/pricemap/" "~/pricingmap/" "~/d2c-api-graphql/" "~/d2c-front/" "~/.emacs.d/dotemacs/" "~/services-digital-nonprd/" "~/django-rest-api/" "~/.emacs.d/elpa/org-9.5/" "~/dotfiles/" "~/.oh-my-zsh/" "~/.emacs.d/elpa/jedi-core-20210503.1315/")
